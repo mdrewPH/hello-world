@@ -1,2 +1,4 @@
-# hello-world
-My first (well, second) github repo.
+hello-world
+===========
+
+Hi. This is the github walkthrough.
