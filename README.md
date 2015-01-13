@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Hi. This is the github walkthrough.
+Oops, I edited master last time.
